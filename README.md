@@ -9,6 +9,7 @@
 ### Im a shitty bot dev who is interested in making bots that ill make people pay to use even tho theyre shit
 
 <h2>Projects/Interests</h2>
+
 - 👻: node.js
 - 👻: malware/ransomewares (not shown on github)
 - 👻: minor pentesting
