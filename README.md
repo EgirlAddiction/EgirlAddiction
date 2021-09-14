@@ -24,7 +24,7 @@
 - 🔗: <a href="https://t.me/city1337">Telegram</a>
 - 🔗: <a href="https://discordapp.com/users/855936540509208586/">Discord Profile</a>
 - 🔗: <a href="https://discord.gg/own">Discord Server</a>
-- 🔗: <p>Email:</p><a href = "mailto: jj@fbi.ac">jj@fbi.ac</a>
+- 🔗: <p>Email: </p> <a href = "mailto: jj@fbi.ac">jj@fbi.ac</a>
 
 
 <h2>Goals.</h2>
