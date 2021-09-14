@@ -3,7 +3,12 @@
 </div>
 <hr>
 
-<h1>Contact Info.</h1>
+
+
+## Hi, my names Jard but people know me as ciggy or city
+### Im a shitty bot dev who is interested in making bots that ill make people pay to use even tho theyre shit
+
+<h2>Contact Info.</h2>
 
 - 🔗: <a href="https://twitter.com/C1TlES">Twitter</a>
 - 🔗: <a href="https://instagram.com/cities1337">Instagram</a>
@@ -14,7 +19,7 @@
 - 🔗: <a href = "mailto: jj@fbi.ac">Email</a>
 
 
-<h1>Goals.</h1>
+<h2>Goals.</h2>
 
 - 🌐:  Become proficient with Node.js
 - 🌐:  Become proficient with C#
