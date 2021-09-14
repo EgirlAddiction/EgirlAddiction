@@ -6,10 +6,6 @@
 
 
 
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" /></p> 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EgirlAddiction&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" /></p> 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=EgirlAddiction&show_icons=true&locale=en&theme=tokyonight" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
