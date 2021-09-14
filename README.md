@@ -11,7 +11,6 @@
 <h2>Projects/Interests.</h2>
 
 - 👻:  node.js
-- 👻:  malware/ransomewares (not shown on github)
 - 👻:  minor pentesting
 - 👻:  fraud research
 - 👻:  general cybersec and infosec
