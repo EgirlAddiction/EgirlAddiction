@@ -1,6 +1,8 @@
 <div align="center" width="50">
  <img src="https://discord.c99.nl/widget/theme-2/855936540509208586.png" alt="discord.png" width="450"/>
 </div>
+<hr>
+
 
 <hr>
 
