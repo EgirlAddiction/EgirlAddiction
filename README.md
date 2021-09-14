@@ -3,6 +3,16 @@
 </div>
 <hr>
 
+<h1>Contact Info.</h1>
+
+- 🔗: <a href="https://twitter.com/C1TlES">Twitter</a>
+- 🔗: 
+- 🔗: 
+- 🔗: 
+- 🔗: 
+- 😄  Pronouns: He/His
+- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+
 
 <hr>
 
