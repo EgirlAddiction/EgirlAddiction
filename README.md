@@ -6,9 +6,11 @@
 <h1>Contact Info.</h1>
 
 - 🔗: <a href="https://twitter.com/C1TlES">Twitter</a>
+- 🔗: <a href="https://instagram.com/cities1337">Instagram</a>
+- 🔗: <a href="https://ogusers.com/kilometer">OGusers</a>
+- 🔗: <a href="https://t.me/city1337">Telegram</a>
 - 🔗: <a href="https://discordapp.com/users/855936540509208586/">Discord Profile</a>
-- 🔗: <a href="url">link text</a>
-- 🔗: <a href="url">link text</a>
+- 🔗: <a href="https://discord.gg/own">Discord Server</a>
 - 🔗: <a href = "mailto: jj@fbi.ac">Email</a>
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
