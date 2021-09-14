@@ -8,6 +8,13 @@
 ## Hi, my names Jard but people know me as ciggy or city
 ### Im a shitty bot dev who is interested in making bots that ill make people pay to use even tho theyre shit
 
+<h2>Projects/Interests</h2>
+- 👻: node.js
+- 👻: malware/ransomewares (not shown on github)
+- 👻: minor pentesting
+- 👻: fraud research
+- 👻: general cybersec and infosec
+
 <h2>Contact Info.</h2>
 
 - 🔗: <a href="https://twitter.com/C1TlES">Twitter</a>
