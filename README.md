@@ -12,8 +12,16 @@
 - 🔗: <a href="https://discordapp.com/users/855936540509208586/">Discord Profile</a>
 - 🔗: <a href="https://discord.gg/own">Discord Server</a>
 - 🔗: <a href = "mailto: jj@fbi.ac">Email</a>
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+
+
+<h1>Goals.</h1>
+
+- 🌐:  Become proficient with Node.js
+- 🌐:  Become proficient with C#
+- 🌐:  Become proficient with C++
+- 🌐:  Code a discord bot that works to my liking.
+- 🌐:  Learn a good amount of japanese.
+- 🌐:  Make money in crypto.
 
 
 <hr>
