@@ -6,10 +6,10 @@
 <h1>Contact Info.</h1>
 
 - 🔗: <a href="https://twitter.com/C1TlES">Twitter</a>
-- 🔗: 
-- 🔗: 
-- 🔗: 
-- 🔗: 
+- 🔗: <a href="url">link text</a>
+- 🔗: <a href="url">link text</a>
+- 🔗: <a href="url">link text</a>
+- 🔗: <a href = "mailto: jj@fbi.ac">Email</a>
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
 
