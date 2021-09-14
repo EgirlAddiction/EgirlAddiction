@@ -1,1 +1,3 @@
 ### The names Jared🤝
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgirlAddiction)](https://github.com/anuraghazra/github-readme-stats)
